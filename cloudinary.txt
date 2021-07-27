@@ -1,0 +1,5 @@
+cloudinary
+cloudname: simon-zajicek
+API Key : 533965417438258
+API secret : U79k_xoEdId_EjGt0WUxbYpdJEc
+enviroment var: cloudinary://533965417438258:U79k_xoEdId_EjGt0WUxbYpdJEc@simon-zajicek
